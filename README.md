@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagordon-dev
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning, python
-- 💞️ I’m looking to collaborate on data science related python projects
+- 👀 I’m interested in Python development
+- 🌱 I’m currently mastering Python
+- 💞️ I’m looking to collaborate on any project in need of a Python developer
 - 📫 How to reach me sagordon-dev@outlook.com
 
 <!---
